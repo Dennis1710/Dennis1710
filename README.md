@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dennis1710
+- 👀 I’m interested in Mobile/Game/Web Development
+- 🌱 I’m currently learning the basics of coding
